@@ -1,0 +1,39 @@
+Part A:DDL(Structure/Table Creation)
+
+
+1.create a database name collegeDB.
+2.select / use the database collegeDB.
+3.CREATE a table student with columns:
+ Rollno int
+ Name varchar(50)
+ Dept varchar(20)
+ Age int
+ Phone varchar(15)
+4.create a table course with columns:
+ courseID INT
+ courseName varchar(50)
+ credits int
+5.Add a new column city in table student.
+6.ADD a new column semester in table student.
+7.Rename column Phone to MobileNo in table Student.
+8.Delete drop the table course. 
+
+
+
+Part B:DML(insert/update/Delete/view data)
+
+
+9.Insert 5 student records into student.
+10.Display all records from student.
+11.Display only ROLLNo and Name from student.
+12.Display all students from department.
+13.Display all students from department.
+14.Update the department of RollNo = 101 to "ece".
+15.Update the city of student "Rahul" to "patna".
+16.Increase age of student whose RollNO = 105.
+18.Delete all records from students (table should remain).
+
+
+
+
+
